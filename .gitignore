@@ -443,6 +443,7 @@ enc_temp_folder/*
 deps
 build
 install
+install-mxu
 
 # Tools
 tools/ImageCropper/**/*.png
